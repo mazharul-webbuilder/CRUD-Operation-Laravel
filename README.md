@@ -25,7 +25,7 @@ create, read, update & delete data from database.
   1. Laravel - 9
   2. MYSQL
   
-  #####Project Developer
+  ##### Project Developer
   Name: <b>Mazharul Islam</b>  
   Professional Full Stack Web Developer
   Email: <i>mazharulislam1998r@gmail.com</i>  
