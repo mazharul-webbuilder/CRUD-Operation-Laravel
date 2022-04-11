@@ -10,6 +10,7 @@ create, read, update & delete data from database.
  4. Delte Category
  
  #### Project Demo
+  Please excuse me for the quality of screenshoot </br>
  <img src="project-image/1.home_.png">
  <img src="project-image/2.home_.png">
  <img src="project-image/3.home_.png">
